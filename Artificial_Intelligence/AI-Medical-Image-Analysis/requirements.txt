@@ -1,0 +1,9 @@
+tensorflow
+numpy
+opencv-python
+matplotlib
+scikit-learn
+flask
+streamlit
+pillow
+requests

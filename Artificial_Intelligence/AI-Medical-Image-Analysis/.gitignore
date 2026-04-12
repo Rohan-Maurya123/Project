@@ -1,0 +1,46 @@
+# Python cache
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+
+venv/
+env/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Model files (optional: keep or remove based on size)
+
+*.h5
+
+# Output files
+
+outputs/
+*.png
+*.jpg
+
+# Dataset (VERY IMPORTANT - don't upload large data)
+
+data/
+
+# Streamlit cache
+
+.streamlit/
+
+# Logs
+
+*.log
+
+# VS Code
+
+.vscode/
+
+# Jupyter
+
+.ipynb_checkpoints/
