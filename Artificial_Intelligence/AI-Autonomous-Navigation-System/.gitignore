@@ -1,0 +1,21 @@
+# Python environment
+venv/
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+outputs/
+data/*.csv
+!data/grid_map.csv
+
+# System files
+.DS_Store
+Thumbs.db
