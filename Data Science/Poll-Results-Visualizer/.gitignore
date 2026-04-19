@@ -1,0 +1,21 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Data & Logs
+data/poll_data.csv
+*.log
+streamlit_log*.txt
+
+# IDE Settings
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/

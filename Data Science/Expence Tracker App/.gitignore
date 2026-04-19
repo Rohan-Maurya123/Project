@@ -1,0 +1,28 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+.venv
+
+# Data
+data/*.csv
+!data/cleaned_expenses.csv # Keep a sample cleaned file if needed, otherwise ignore all
+data/*.png
+outputs/*.png
+output.log
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db

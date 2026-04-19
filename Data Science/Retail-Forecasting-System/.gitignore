@@ -1,0 +1,19 @@
+# Python & Environments
+__pycache__/
+venv/
+.venv/
+env/
+.env
+
+# Data & Models (Keep repo light)
+data/*.csv
+models/*.pkl
+outputs/
+*.log
+
+# IDEs & OS
+.vscode/
+.idea/
+.trae/
+.ipynb_checkpoints/
+.DS_Store
