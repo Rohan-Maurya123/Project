@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Models & Data
+models/*.pkl
+data/*.csv
+
+# Logs & Temporary Files
+*.log
+streamlit_output.txt
+eval_results.txt
+train_output.txt
+.streamlit/
+
+# IDEs
+.vscode/
+.idea/
