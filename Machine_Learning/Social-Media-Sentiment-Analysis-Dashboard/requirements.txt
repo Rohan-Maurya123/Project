@@ -1,7 +1,12 @@
-streamlit
 pandas
 numpy
 scikit-learn
+nltk
+streamlit
 plotly
 joblib
-python-dateutil
+matplotlib
+seaborn
+streamlit-lottie
+requests
+wordcloud

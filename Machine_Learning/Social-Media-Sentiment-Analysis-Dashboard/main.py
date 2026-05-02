@@ -1,44 +1,39 @@
+from src.data_loader import load_data
+from src.model_trainer import SentimentModel
 import os
-import sys
-import subprocess
 
-def train():
-    """
-    Runs the training script.
-    """
-    print("Starting model training...")
-    # Add project root to path so src can be imported
-    sys.path.append(os.getcwd())
-    from src.train import train_sentiment_model
-    
+def main():
+    # 1. Load Data
     data_path = 'data/training.1600000.processed.noemoticon.csv'
-    if not os.path.exists(data_path):
-        print(f"Warning: Dataset not found at {data_path}. Training with sample data.")
-        data_path = None
-        
-    train_sentiment_model(data_path)
-    print("Training completed successfully.")
-
-def run_app():
-    """
-    Runs the Streamlit app.
-    """
-    print("Starting Streamlit app...")
-    # Use python -m streamlit to ensure it uses the current environment's streamlit
-    subprocess.run([sys.executable, "-m", "streamlit", "run", "app/app.py"])
+    df = load_data(data_path)
+    
+    # 2. Sample data if too large (for quick demo)
+    if len(df) > 20000:
+        print("Sampling 20,000 records for demonstration training...")
+        df = df.sample(20000, random_state=42)
+    
+    # 3. Clean target labels (0=Neg, 4=Pos) -> (0, 1)
+    if 4 in df['target'].unique():
+        df['target'] = df['target'].replace(4, 1)
+    
+    # 4. Initialize and Train Model
+    sentiment_model = SentimentModel()
+    sentiment_model.train(df)
+    
+    # 5. Save the trained model
+    sentiment_model.save_model()
+    
+    # 6. Test Prediction
+    test_tweets = [
+        "I love this project! It's so helpful.",
+        "I'm feeling very sad about the news today.",
+        "The movie was okay, nothing special but not bad either."
+    ]
+    
+    predictions = sentiment_model.predict(test_tweets)
+    for tweet, pred in zip(test_tweets, predictions):
+        sentiment = "Positive" if pred == 1 else "Negative"
+        print(f"Tweet: {tweet} | Sentiment: {sentiment}")
 
 if __name__ == "__main__":
-    if len(sys.argv) > 1:
-        command = sys.argv[1].lower()
-        if command == "train":
-            train()
-        elif command == "app":
-            run_app()
-        else:
-            print("Unknown command. Use 'train' or 'app'.")
-    else:
-        # Default behavior: show help
-        print("Social Media Sentiment Analysis Dashboard")
-        print("Usage:")
-        print("  python main.py train    - Train the sentiment model")
-        print("  python main.py app      - Start the Streamlit dashboard")
+    main()

@@ -6,12 +6,11 @@ venv/
 .env
 
 # Data and Models
-data/training.1600000.processed.noemoticon.csv
-models/*.pkl
+data/*.csv
+models/*.joblib
+outputs/*.png
+outputs/*.csv
 
-# Streamlit
-.streamlit/
-
-# OS
-.DS_Store
-Thumbs.db
+# IDE
+.vscode/
+.idea/
