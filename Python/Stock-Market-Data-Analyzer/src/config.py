@@ -1,0 +1,11 @@
+# src/config.py
+
+DEFAULT_TICKER = "AAPL"
+
+START_DATE = "2022-01-01"
+
+END_DATE = "2025-01-01"
+
+SHORT_MA = 20
+
+LONG_MA = 50

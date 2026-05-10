@@ -1,0 +1,5 @@
+id,contact_id,reminder_type,reminder_time,message_template
+1,1,Payment Reminder,10:00,reminder_email.html
+2,2,Meeting Alert,14:30,reminder_email.html
+3,3,Task Notification,09:00,reminder_email.html
+4,4,Webinar Reminder,16:00,reminder_email.html

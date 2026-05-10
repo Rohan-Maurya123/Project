@@ -1,0 +1,6 @@
+pandas
+schedule
+python-dotenv
+jinja2
+streamlit
+plotly

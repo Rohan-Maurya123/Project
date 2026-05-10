@@ -1,0 +1,29 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.venv/
+env/
+.env
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project Specific
+outputs/
+score_debug.log
+skipped.log
+debug_output.txt
+data/sample_jd.txt
+*.csv
+!data/Resume.csv
+
+# System Files
+.DS_Store
+Thumbs.db

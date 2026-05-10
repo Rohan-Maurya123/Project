@@ -1,0 +1,305 @@
+Date,Category,Amount,Payment_Method,Description
+2025-05-23,Bills,4681.53,Cash,Expense 0
+2025-06-18,Food,3841.24,Credit Card,Expense 1
+2026-03-26,Entertainment,1768.75,Debit Card,Expense 2
+2025-07-06,Bills,2365.85,UPI,Expense 3
+2026-04-04,Shopping,2140.54,Cash,Expense 4
+2025-11-24,Entertainment,3333.22,Debit Card,Expense 5
+2025-09-02,Entertainment,3349.95,UPI,Expense 6
+2025-07-27,Entertainment,2993.59,Debit Card,Expense 7
+2025-07-13,Food,2204.75,Cash,Expense 8
+2025-08-25,Food,3190.24,Debit Card,Expense 9
+2025-06-26,Healthcare,2016.91,Credit Card,Expense 10
+2026-01-23,Bills,565.15,UPI,Expense 11
+2026-03-09,Food,1701.86,Credit Card,Expense 12
+2025-11-15,Shopping,2174.54,Credit Card,Expense 13
+2026-03-26,Shopping,3041.34,UPI,Expense 14
+2025-06-11,Transport,3924.98,Cash,Expense 15
+2025-05-12,Shopping,3299.2,Credit Card,Expense 16
+2025-10-25,Food,4153.24,UPI,Expense 17
+2026-01-18,Shopping,515.14,Debit Card,Expense 18
+2026-01-01,Bills,4048.89,UPI,Expense 19
+2026-01-13,Transport,3623.83,UPI,Expense 20
+2025-09-18,Healthcare,1589.94,Credit Card,Expense 21
+2025-07-13,Healthcare,3899.52,Credit Card,Expense 22
+2025-06-21,Food,3591.69,UPI,Expense 23
+2026-01-02,Bills,3131.28,Cash,Expense 24
+2025-07-16,Food,3239.6,Cash,Expense 25
+2026-03-22,Food,3779.42,Debit Card,Expense 26
+2025-05-22,Transport,822.61,Debit Card,Expense 27
+2025-11-14,Transport,540.67,Credit Card,Expense 28
+2026-03-20,Food,1882.25,Debit Card,Expense 29
+2025-10-12,Entertainment,183.23,Cash,Expense 30
+2025-12-04,Transport,4188.99,Debit Card,Expense 31
+2025-05-31,Entertainment,1827.54,UPI,Expense 32
+2026-04-08,Healthcare,513.53,Credit Card,Expense 33
+2025-05-21,Bills,218.34,UPI,Expense 34
+2026-03-02,Bills,4115.49,Debit Card,Expense 35
+2025-08-30,Healthcare,1084.34,Credit Card,Expense 36
+2026-04-03,Food,3228.26,Debit Card,Expense 37
+2026-04-22,Entertainment,4161.89,UPI,Expense 38
+2025-05-11,Transport,208.42,Debit Card,Expense 39
+2025-10-02,Food,191.1,Debit Card,Expense 40
+2025-10-22,Healthcare,1305.77,Cash,Expense 41
+2025-08-13,Transport,4796.32,UPI,Expense 42
+2025-11-14,Healthcare,1694.83,Credit Card,Expense 43
+2025-05-12,Transport,3598.6,Credit Card,Expense 44
+2026-03-04,Food,4671.07,Debit Card,Expense 45
+2025-05-15,Shopping,2204.67,Cash,Expense 46
+2026-01-04,Healthcare,549.8,Credit Card,Expense 47
+2025-05-15,Healthcare,2791.97,Credit Card,Expense 48
+2025-09-11,Food,3856.3,Debit Card,Expense 49
+2025-05-20,Shopping,3633.64,UPI,Expense 50
+2025-06-08,Food,419.3,UPI,Expense 51
+2025-12-17,Bills,464.18,Credit Card,Expense 52
+2026-02-23,Entertainment,371.25,Credit Card,Expense 53
+2025-09-18,Shopping,480.78,Credit Card,Expense 54
+2025-06-05,Entertainment,4590.27,Debit Card,Expense 55
+2026-04-27,Food,1636.11,UPI,Expense 56
+2025-07-11,Food,2997.77,Credit Card,Expense 57
+2026-04-04,Bills,4790.97,Debit Card,Expense 58
+2025-07-29,Food,1427.71,Credit Card,Expense 59
+2026-02-28,Bills,3042.8,Credit Card,Expense 60
+2026-02-25,Healthcare,4493.62,Credit Card,Expense 61
+2026-05-02,Entertainment,4541.89,Cash,Expense 62
+2025-07-06,Food,2436.04,Debit Card,Expense 63
+2025-12-10,Food,4985.45,Credit Card,Expense 64
+2025-05-06,Food,2636.3,UPI,Expense 65
+2025-10-22,Shopping,443.78,Credit Card,Expense 66
+2026-01-06,Bills,3745.0,Debit Card,Expense 67
+2026-02-24,Transport,358.37,UPI,Expense 68
+2025-05-15,Shopping,3047.48,UPI,Expense 69
+2025-08-23,Food,1978.01,UPI,Expense 70
+2026-03-12,Food,2466.01,Debit Card,Expense 71
+2025-06-23,Shopping,1535.91,Debit Card,Expense 72
+2025-11-04,Bills,2193.76,Cash,Expense 73
+2025-11-19,Transport,3358.83,UPI,Expense 74
+2026-04-12,Food,904.37,Debit Card,Expense 75
+2025-10-16,Entertainment,1325.67,UPI,Expense 76
+2026-01-15,Food,1632.37,UPI,Expense 77
+2025-06-26,Shopping,1992.09,Cash,Expense 78
+2026-04-25,Healthcare,4154.22,Cash,Expense 79
+2026-01-31,Entertainment,3433.5,UPI,Expense 80
+2026-03-12,Healthcare,4258.54,Credit Card,Expense 81
+2025-05-07,Transport,4800.97,Cash,Expense 82
+2025-05-06,Healthcare,653.55,Credit Card,Expense 83
+2026-03-26,Transport,1639.93,Cash,Expense 84
+2026-01-19,Healthcare,3878.37,Cash,Expense 85
+2026-02-14,Healthcare,1372.08,Debit Card,Expense 86
+2026-01-17,Bills,1795.13,Debit Card,Expense 87
+2025-07-31,Healthcare,2385.56,Cash,Expense 88
+2025-07-20,Shopping,2206.77,Cash,Expense 89
+2026-03-27,Food,3386.73,Cash,Expense 90
+2025-11-16,Bills,3704.57,UPI,Expense 91
+2026-02-17,Healthcare,4726.97,UPI,Expense 92
+2026-03-29,Healthcare,295.09,Debit Card,Expense 93
+2025-10-21,Transport,445.75,Cash,Expense 94
+2025-11-23,Healthcare,2976.2,Credit Card,Expense 95
+2026-03-09,Transport,1122.24,Debit Card,Expense 96
+2025-08-24,Bills,3066.9,Debit Card,Expense 97
+2025-05-18,Bills,1629.61,UPI,Expense 98
+2025-08-21,Shopping,2101.59,Debit Card,Expense 99
+2025-11-19,Transport,2387.15,Credit Card,Expense 100
+2026-04-27,Healthcare,328.25,Debit Card,Expense 101
+2026-02-10,Entertainment,1367.9,Credit Card,Expense 102
+2025-05-31,Shopping,3533.2,Cash,Expense 103
+2026-04-03,Entertainment,697.47,Cash,Expense 104
+2026-04-24,Shopping,2539.74,Credit Card,Expense 105
+2025-06-16,Shopping,2384.77,Credit Card,Expense 106
+2026-05-04,Bills,1745.69,Debit Card,Expense 107
+2026-01-29,Bills,2452.09,UPI,Expense 108
+2025-11-15,Transport,3218.42,UPI,Expense 109
+2025-07-19,Shopping,571.9,UPI,Expense 110
+2025-12-26,Healthcare,2706.36,Credit Card,Expense 111
+2025-07-29,Entertainment,4124.02,UPI,Expense 112
+2025-11-14,Transport,2969.07,UPI,Expense 113
+2025-09-26,Healthcare,1926.29,Debit Card,Expense 114
+2025-06-05,Transport,2999.22,UPI,Expense 115
+2026-03-22,Entertainment,2789.76,Debit Card,Expense 116
+2025-12-19,Food,2343.69,UPI,Expense 117
+2025-10-27,Bills,623.68,Cash,Expense 118
+2026-03-14,Healthcare,3592.37,UPI,Expense 119
+2025-11-06,Entertainment,1292.29,UPI,Expense 120
+2025-12-03,Bills,3243.08,Cash,Expense 121
+2025-10-18,Healthcare,1168.74,Debit Card,Expense 122
+2025-08-04,Transport,376.3,Cash,Expense 123
+2025-12-22,Food,942.28,Debit Card,Expense 124
+2025-09-25,Food,4872.1,UPI,Expense 125
+2026-01-13,Transport,1295.46,Cash,Expense 126
+2025-08-09,Healthcare,1988.05,Cash,Expense 127
+2026-03-04,Food,2544.71,Cash,Expense 128
+2026-01-16,Transport,3990.03,Credit Card,Expense 129
+2026-01-14,Healthcare,1140.02,Debit Card,Expense 130
+2026-01-30,Entertainment,4741.82,Credit Card,Expense 131
+2025-05-15,Healthcare,500.02,Debit Card,Expense 132
+2025-07-27,Bills,4476.25,Debit Card,Expense 133
+2025-09-18,Bills,4432.58,Credit Card,Expense 134
+2025-09-19,Food,2849.97,Debit Card,Expense 135
+2025-06-13,Food,3497.0,Debit Card,Expense 136
+2025-12-16,Transport,514.89,Debit Card,Expense 137
+2026-04-16,Bills,1561.98,Cash,Expense 138
+2025-08-28,Food,4266.81,UPI,Expense 139
+2025-08-18,Transport,1354.63,Cash,Expense 140
+2026-01-09,Shopping,2320.38,Credit Card,Expense 141
+2025-05-28,Entertainment,4197.5,Cash,Expense 142
+2026-02-09,Food,127.33,Debit Card,Expense 143
+2025-08-22,Healthcare,3076.62,Cash,Expense 144
+2026-04-09,Entertainment,863.8,UPI,Expense 145
+2026-04-14,Transport,2442.68,Credit Card,Expense 146
+2026-04-16,Entertainment,1283.26,Debit Card,Expense 147
+2025-08-08,Bills,4769.67,UPI,Expense 148
+2025-06-07,Shopping,2606.23,Debit Card,Expense 149
+2025-10-04,Transport,3292.7,Cash,Expense 150
+2025-06-04,Healthcare,1609.73,Credit Card,Expense 151
+2025-11-11,Food,2122.76,Credit Card,Expense 152
+2025-10-31,Transport,3503.17,Debit Card,Expense 153
+2026-04-25,Shopping,2625.87,Cash,Expense 154
+2025-07-20,Entertainment,4322.44,Debit Card,Expense 155
+2025-08-17,Food,1938.49,Credit Card,Expense 156
+2026-04-04,Entertainment,4391.84,Credit Card,Expense 157
+2025-12-21,Food,3166.63,Credit Card,Expense 158
+2025-10-09,Bills,2269.04,Debit Card,Expense 159
+2025-09-10,Entertainment,331.29,Cash,Expense 160
+2025-08-12,Bills,3737.8,Credit Card,Expense 161
+2025-07-17,Healthcare,4425.9,Cash,Expense 162
+2025-08-04,Entertainment,4698.66,UPI,Expense 163
+2026-04-08,Transport,3090.72,Debit Card,Expense 164
+2025-12-14,Transport,3471.79,Debit Card,Expense 165
+2026-01-13,Entertainment,3174.8,Debit Card,Expense 166
+2025-09-01,Healthcare,1165.47,Credit Card,Expense 167
+2025-05-09,Shopping,249.77,Credit Card,Expense 168
+2025-06-15,Bills,1927.99,Cash,Expense 169
+2025-12-21,Food,4906.73,Credit Card,Expense 170
+2025-12-26,Shopping,1791.08,Credit Card,Expense 171
+2025-11-08,Healthcare,2298.3,Cash,Expense 172
+2026-02-27,Shopping,1810.49,Debit Card,Expense 173
+2025-09-17,Bills,122.94,Cash,Expense 174
+2026-01-18,Shopping,1802.42,Credit Card,Expense 175
+2025-09-07,Shopping,437.31,Debit Card,Expense 176
+2025-11-01,Food,2286.18,Cash,Expense 177
+2025-09-27,Bills,2557.23,Credit Card,Expense 178
+2026-04-30,Entertainment,4209.54,Credit Card,Expense 179
+2025-07-23,Entertainment,2090.61,UPI,Expense 180
+2025-10-19,Transport,3430.49,UPI,Expense 181
+2025-09-03,Food,1513.92,Cash,Expense 182
+2025-06-07,Shopping,2613.09,Credit Card,Expense 183
+2025-07-24,Shopping,4205.61,Credit Card,Expense 184
+2025-08-02,Healthcare,1840.87,Credit Card,Expense 185
+2025-12-24,Transport,1412.6,UPI,Expense 186
+2026-02-26,Transport,1158.08,Cash,Expense 187
+2026-03-11,Bills,2731.99,Credit Card,Expense 188
+2026-04-24,Food,2650.42,UPI,Expense 189
+2026-04-23,Shopping,1187.78,Debit Card,Expense 190
+2025-09-14,Bills,1159.67,Credit Card,Expense 191
+2025-08-06,Shopping,3605.87,Credit Card,Expense 192
+2025-11-07,Transport,504.23,Credit Card,Expense 193
+2025-10-21,Food,4610.8,Debit Card,Expense 194
+2025-07-29,Healthcare,3389.54,Debit Card,Expense 195
+2026-01-11,Transport,2886.59,UPI,Expense 196
+2025-10-25,Transport,565.59,Cash,Expense 197
+2025-06-21,Transport,3965.96,Debit Card,Expense 198
+2026-01-05,Healthcare,4372.82,Credit Card,Expense 199
+2025-11-11,Entertainment,3717.63,Credit Card,Expense 200
+2025-08-26,Healthcare,4376.39,Debit Card,Expense 201
+2025-12-11,Food,3728.26,Cash,Expense 202
+2026-02-06,Bills,179.7,Debit Card,Expense 203
+2025-08-15,Shopping,1268.63,UPI,Expense 204
+2025-09-11,Shopping,2756.08,Credit Card,Expense 205
+2026-04-18,Bills,2486.19,UPI,Expense 206
+2026-02-02,Bills,1521.68,Cash,Expense 207
+2026-04-30,Entertainment,226.94,Cash,Expense 208
+2026-03-19,Food,3151.48,Debit Card,Expense 209
+2025-10-16,Food,1319.74,Debit Card,Expense 210
+2025-05-24,Food,3440.46,Credit Card,Expense 211
+2025-07-18,Shopping,3704.46,Cash,Expense 212
+2025-08-15,Food,3098.86,Cash,Expense 213
+2026-03-22,Entertainment,2522.26,Credit Card,Expense 214
+2025-07-17,Food,4144.47,UPI,Expense 215
+2025-06-14,Bills,3554.03,Cash,Expense 216
+2025-11-11,Entertainment,269.5,Cash,Expense 217
+2025-12-29,Food,2392.33,UPI,Expense 218
+2025-06-18,Entertainment,2858.34,Cash,Expense 219
+2025-07-08,Food,357.04,Debit Card,Expense 220
+2025-12-07,Transport,3620.06,UPI,Expense 221
+2025-06-11,Transport,2436.11,Credit Card,Expense 222
+2025-10-23,Food,3485.74,Debit Card,Expense 223
+2025-12-09,Bills,3260.64,UPI,Expense 224
+2025-09-18,Bills,3422.96,Cash,Expense 225
+2026-02-04,Shopping,725.92,Credit Card,Expense 226
+2026-04-05,Food,937.59,UPI,Expense 227
+2026-01-13,Shopping,3096.81,Debit Card,Expense 228
+2025-05-13,Entertainment,3351.6,Debit Card,Expense 229
+2026-03-22,Bills,3531.03,Debit Card,Expense 230
+2025-10-27,Entertainment,2567.98,Credit Card,Expense 231
+2026-03-18,Entertainment,4304.09,UPI,Expense 232
+2025-12-23,Bills,4628.26,Credit Card,Expense 233
+2025-06-29,Transport,872.61,Credit Card,Expense 234
+2025-07-04,Bills,1548.61,Debit Card,Expense 235
+2026-03-13,Food,2089.49,Credit Card,Expense 236
+2026-02-25,Healthcare,480.51,UPI,Expense 237
+2025-07-26,Shopping,4751.37,UPI,Expense 238
+2026-01-31,Entertainment,2872.62,Debit Card,Expense 239
+2025-08-11,Bills,376.23,UPI,Expense 240
+2026-02-10,Transport,1940.92,Cash,Expense 241
+2026-04-03,Entertainment,4202.53,Debit Card,Expense 242
+2025-11-21,Transport,1814.18,Debit Card,Expense 243
+2025-12-15,Entertainment,4378.22,Cash,Expense 244
+2026-02-15,Bills,2164.63,UPI,Expense 245
+2025-08-31,Transport,2724.53,UPI,Expense 246
+2026-01-07,Food,2035.9,Debit Card,Expense 247
+2025-12-01,Food,977.32,UPI,Expense 248
+2026-04-18,Healthcare,2848.22,Debit Card,Expense 249
+2026-02-10,Shopping,4122.25,Cash,Expense 250
+2026-04-06,Food,2441.7,UPI,Expense 251
+2025-12-28,Healthcare,665.65,Credit Card,Expense 252
+2025-08-31,Healthcare,2704.73,Credit Card,Expense 253
+2026-03-20,Shopping,1486.5,UPI,Expense 254
+2025-11-09,Food,1291.87,UPI,Expense 255
+2026-02-27,Shopping,1911.87,UPI,Expense 256
+2025-10-26,Shopping,353.92,Cash,Expense 257
+2025-12-07,Transport,1893.44,Credit Card,Expense 258
+2026-02-26,Food,2000.12,UPI,Expense 259
+2025-09-15,Entertainment,435.29,UPI,Expense 260
+2025-12-29,Shopping,2869.48,Cash,Expense 261
+2025-07-07,Transport,997.94,Cash,Expense 262
+2025-12-30,Food,1394.62,Debit Card,Expense 263
+2026-03-30,Bills,4705.63,Credit Card,Expense 264
+2026-01-23,Healthcare,4675.04,Credit Card,Expense 265
+2026-01-24,Healthcare,3442.64,UPI,Expense 266
+2025-07-30,Bills,2431.73,Credit Card,Expense 267
+2025-06-15,Shopping,2740.44,Cash,Expense 268
+2025-10-11,Shopping,1481.86,Debit Card,Expense 269
+2025-07-20,Shopping,1680.88,Cash,Expense 270
+2025-11-20,Healthcare,2729.94,Debit Card,Expense 271
+2026-01-23,Shopping,2765.39,UPI,Expense 272
+2026-02-24,Transport,4636.7,Credit Card,Expense 273
+2026-05-04,Bills,1592.14,Credit Card,Expense 274
+2025-06-29,Food,4357.93,Credit Card,Expense 275
+2025-06-28,Healthcare,4564.81,Cash,Expense 276
+2026-01-20,Shopping,1180.12,Debit Card,Expense 277
+2026-04-16,Food,4992.66,UPI,Expense 278
+2025-09-08,Transport,2062.84,Cash,Expense 279
+2025-05-23,Bills,1383.26,UPI,Expense 280
+2025-06-25,Food,2747.08,Cash,Expense 281
+2025-07-02,Bills,2429.24,UPI,Expense 282
+2025-12-15,Food,4316.33,UPI,Expense 283
+2026-03-27,Transport,3566.71,Debit Card,Expense 284
+2026-01-06,Transport,4605.06,UPI,Expense 285
+2025-08-31,Shopping,1505.76,UPI,Expense 286
+2025-11-29,Healthcare,1786.53,Debit Card,Expense 287
+2025-06-23,Bills,2855.87,Cash,Expense 288
+2025-05-28,Shopping,1217.34,Cash,Expense 289
+2025-06-23,Transport,1210.06,Cash,Expense 290
+2025-07-13,Bills,289.43,Cash,Expense 291
+2025-11-10,Entertainment,4109.21,Debit Card,Expense 292
+2025-07-29,Shopping,3930.01,Debit Card,Expense 293
+2026-03-24,Bills,2570.63,Credit Card,Expense 294
+2026-01-06,Food,1462.74,Cash,Expense 295
+2025-12-08,Healthcare,763.16,Credit Card,Expense 296
+2026-03-04,Transport,613.73,Debit Card,Expense 297
+2026-02-12,Entertainment,4165.39,Debit Card,Expense 298
+2025-06-06,Food,288.8,Cash,Expense 299
+2026-05-10,Food,111.0,Cash,
+2026-05-10,Food,111.0,Cash,
+2026-05-10,Food,131.0,Cash,
+2026-05-10,Food,131.0,UPI,
