@@ -194,18 +194,6 @@ This project demonstrates:
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots here:
-
-- Dashboard Home
-- Analytics Tab
-- Expense Records
-- Monthly Insights
-- Charts & Visualizations
-
----
-
 # 👨‍💻 Author
 
 Developed By Rohan Maurya.
