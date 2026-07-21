@@ -1,0 +1,81 @@
+# ===============================
+# Java Project .gitignore
+# Hotel Room Booking Console App
+# ===============================
+
+
+# Compiled Java files
+*.class
+
+# Build folders
+out/
+target/
+bin/
+
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+
+# VS Code files
+.vscode/
+
+
+# NetBeans files
+/nbproject/private/
+
+
+# Package files
+*.jar
+*.war
+*.ear
+
+
+# Logs
+*.log
+
+
+# Temporary files
+*.tmp
+*.temp
+
+
+# Operating System files
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+
+# ===============================
+# Project specific
+# ===============================
+
+# Ignore generated output files
+outputs/*
+
+
+# Keep folder structure but ignore generated files
+!outputs/.gitkeep
+
+
+# Ignore temporary test files
+Test*.java
+
+
+# ===============================
+# Keep booking data
+# ===============================
+
+# Keep booking records for project demonstration
+!data/bookings.txt

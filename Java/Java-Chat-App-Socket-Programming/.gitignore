@@ -1,0 +1,63 @@
+# =========================
+# Java Compiled Files
+# =========================
+
+*.class
+
+
+# =========================
+# Build Output
+# =========================
+
+out/
+build/
+target/
+
+
+# =========================
+# IDE Files
+# =========================
+
+# Visual Studio Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+
+# =========================
+# Generated Runtime Files
+# =========================
+
+# Ignore temporary runtime logs
+logs/*.log
+
+# Ignore temporary output files
+outputs/*.tmp
+
+
+# =========================
+# Operating System Files
+# =========================
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+
+# =========================
+# Temporary Files
+# =========================
+
+*.tmp
+*.temp
+*.bak

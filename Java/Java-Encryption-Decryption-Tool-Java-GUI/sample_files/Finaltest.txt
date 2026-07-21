@@ -1,0 +1,13 @@
+Hello!
+
+This is a sample file created for testing the Java Encryption-Decryption Tool.
+
+The purpose of this file is to verify that:
+- File encryption works correctly.
+- File decryption restores the original content.
+- The encrypted output cannot be read directly.
+- The original file remains unchanged.
+
+Thank you for testing this project.
+
+Have a great day!

@@ -1,0 +1,80 @@
+# ==========================
+# Java compiled files
+# ==========================
+
+*.class
+*.jar
+*.war
+*.ear
+
+# Compiled output folders
+bin/
+out/
+target/
+
+
+# ==========================
+# IDE Files
+# ==========================
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+
+# ==========================
+# Application Generated Data
+# ==========================
+
+# Task storage file
+data/*.dat
+
+# Logs
+logs/
+*.log
+
+
+# ==========================
+# OS Generated Files
+# ==========================
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+
+# ==========================
+# Temporary Files
+# ==========================
+
+*.tmp
+*.temp
+*.swp
+*.bak
+
+
+# ==========================
+# Screenshots / Local Testing
+# ==========================
+
+# Uncomment if you don't want to upload screenshots
+# screenshots/
+
+
+# ==========================
+# Build Cache
+# ==========================
+
+.gradle/
+.mvn/
